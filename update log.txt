@@ -1,0 +1,3 @@
+8:55 pm Fri 3 Mar
+Communication problem is resolved.  Everything is working smooth as expected.  The issue was with println() in Arduino code.  Unexpected really.  
+
